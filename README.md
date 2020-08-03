@@ -8,4 +8,5 @@ Enthusiast about anything related to new technologies, science or engineering, I
 
 - ![twitter](https://github.com/eleboucher/eleboucher/raw/master/img/twitter.svg) Twitter: https://twitter.com/elebouch
 - ![linkedin](https://github.com/eleboucher/eleboucher/raw/master/img/linkedin.svg) LinkedIn: https://www.linkedin.com/in/erwan-leboucher
-- 🌐 Personal Website: https://erwanleboucher.dev/
+- ![Personal Website](https://github.com/eleboucher/eleboucher/raw/master/img/internet.svg) Personal Website: https://erwanleboucher.dev/
+- ![resume](https://github.com/eleboucher/eleboucher/raw/master/img/resume.svg) Resume: https://erwanleboucher.dev/resume.pdf
