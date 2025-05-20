@@ -6,7 +6,5 @@ Enthusiast about anything related to new technologies, science or engineering, I
 
 ## Get In Touch
 
-- ![twitter](https://github.com/eleboucher/eleboucher/raw/master/img/twitter.svg) Twitter: https://twitter.com/elebouch
 - ![linkedin](https://github.com/eleboucher/eleboucher/raw/master/img/linkedin.svg) LinkedIn: https://www.linkedin.com/in/erwan-leboucher
-- Personal Website: https://erwanleboucher.dev/
 - Buy me a beer: https://www.buymeacoffee.com/eleboucher
